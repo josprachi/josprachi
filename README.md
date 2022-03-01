@@ -2,7 +2,7 @@
 Hi I am Prachi Joshi. 
 
 - 🔭 I’m currently working as game developer also contributing in localization of free and open source software projects
-- 🌱 I’m a game developer and flexible in working with any game engine just need 10 days to learn the engine
+- 🌱 I’m a game developer and flexible in working with any game engine after some training
 - 👯 I’m looking for a remote work opportunity in free and open source projects
 - 🤔 I’m looking for help in learning ethereum
 - 💬 Ask me about game development, weblate and transifex
