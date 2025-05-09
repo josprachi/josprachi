@@ -1,26 +1,27 @@
-### Hi there 👋
-Hi I am Prachi Joshi. 
-- Award winning game developer 
-- 🔭 I’m currently working as game developer also contributing in localization of free and open source software projects
-- 🌱 I’m a game developer and flexible in working with any game engine after some training
-- 👯 I’m looking for a remote work opportunity in free and open source projects
-- 🤔 I’m looking for help in learning ethereum
-- 💬 Ask me about game development, weblate and transifex
-- 📫 How to reach me: josprachi@yahoo.com
-- ⚡ Fun fact: I have many cats as my pets
-- I have worked on 30+ open source software projects as localization contributor in Marathi Language.
 
-<!--
-**josprachi/josprachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Prachi Joshi
 
-Here are some ideas to get you started:
+I'm a developer with 10+ years of experience in software and game development, currently transitioning into building developer tools, open-source infrastructure, and backend systems. My work has spanned game engines, full-stack applications, and automation scripts. I believe in solving problems that help other developers create faster, cleaner, and more ethically aware software.
 
-- 🔭 I’m currently working on localization
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+- Building a **browser-first game engine in C++** (in progress)
+- Contributing to **open-source platforms** and localization projects (elementary OS, Tor)
+- Exploring the intersection of **tech + law + cybersecurity** (currently pursuing LLB)
+
+## 🛠️ Technologies & Tools
+- Languages: `C++`, `Python`, `JavaScript`
+- Tools: `Firebase`, `Godot`, `React Native`, `VS Code`, `Linux`
+- Dev Areas: Game Tools, Backend APIs, Open Source Contributions, CI Workflows
+
+## 🚀 Featured Projects
+- **[josprachi/game-engine]** – Early-stage browser-first game engine (C++) (a private repository right now)
+- **Open Source Localization** – Contributed to multiple platforms in Marathi and Hindi
+- **Scripts & Utilities** – Firebase integrations, Python automations, experimental dev tools
+
+## 🧠 Philosophy
+Build things that help others build. Learn in public. Share the process—not just the output.
+
+## 📫 Let's Connect
+- 🌐 [josprachi.com](https://josprachi.com)
+- 💬 [LinkedIn](https://linkedin.com/in/prachi-joshi)
+
